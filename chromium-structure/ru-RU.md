@@ -5,7 +5,7 @@
 на [официальной страничке Google](https://chromium.googlesource.com/chromium/src/tools/gn/+/441de2f/docs/quick_start.md#Running-GN).
 
 Для определения пакетов используются файлы `3pp.pb`.
-`.pb` - расширение файлов [PureBasic](https://www.purebasic.com/). Модули подключаются следующим образом:
+`.pb` - расширение файлов [Protocol Buffers](https://protobuf.dev/). Модули подключаются следующим образом:
 
 ```
 create {
